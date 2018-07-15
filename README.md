@@ -1,4 +1,4 @@
-# barker
+# Barker simulations 
 Simulations of Barker frailty at the aggregate level
 
 We develop a discrete variant of a general model for adult mortality influenced
